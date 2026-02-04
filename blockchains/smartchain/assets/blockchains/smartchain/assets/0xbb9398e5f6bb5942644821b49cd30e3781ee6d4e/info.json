@@ -1,0 +1,11 @@
+{
+  "name": "IBON",
+  "symbol": "IBON",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "IBON is a utility token built on Binance Smart Chain.",
+  "website": "https://bwon.uk",
+  "explorer": "https://bscscan.com/token/0xbb9398e5f6bb5942644821b49cd30e3781ee6d4e",
+  "status": "active",
+  "id": "0xbb9398e5f6bb5942644821b49cd30e3781ee6d4e"
+}
